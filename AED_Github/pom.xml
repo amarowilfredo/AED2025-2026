@@ -10,4 +10,5 @@
         <maven.compiler.release>24</maven.compiler.release>
         <exec.mainClass>com.mycompany.aed_github.AED_Github</exec.mainClass>
     </properties>
+    <name>AED_Github_2025</name>
 </project>
